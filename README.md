@@ -1,4 +1,4 @@
-# 32547:Unix Systems Programming
+# 32547: Unix Systems Programming
 
 - **Tertiary Institution:** University Of Technology Sydney
 - **Degree:** Graduate Certificate in Engineering: Software Systems
